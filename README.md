@@ -12,7 +12,7 @@ I also had a few issues that I can't solve for now, most importantly — connect
 I am also still struggling with pushing my local repository to github, this only got worse but and I also know what might be possible solution for that.
 
 However, I finally got what Postman does, got more comfotable with npm and the whole backend structure of the document, and even a little bit more comfortable with the syntax in general. 
-I also start to understand what's under the hood of the data and come to thinking of it as of structured and organized objects (not that magical).
+I also start to understand what's under the hood of the data and come to thinking of it as of structured and organized objects.
 
 
 ## Final project proposal
