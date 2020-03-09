@@ -24,16 +24,16 @@ Coronavirus is a dramatic example. My family is deeply concerned about the situa
 However, I am not going to dedicate the project to the virus. I've been thinking a lot about specific ecological problem that is deeply silenced in the media.
 There are places in Russia that became, in fact, 'small Chernobyls' for they are being used as waste landfills or/and chemical wastes for years.
 
-These places affect environment, water, animals, and people around them. Nevertheless, I don't think that I could just find some database with the numbers on deseases or eco-catastrophes that are caused by these huge waste dumps.
+These places affect environment, water, animals, and people around them. Nevertheless, I don't think that I could just find some database with the numbers on diseases or eco-catastrophes that are caused by these huge waste dumps.
 
 So, I started thinking how to create the dynamic data-viz' project with NO data.
 
 ![One of the waste landfills in Russia, "Lesnaya ground" ](https://habrastorage.org/webt/ix/4n/qy/ix4nqy1xknkxavylgzgetfmy2r0.jpeg)
 
 I thought I could first have a brief research on the one spesific place and the damage it causes to the communities, nature, and climate, narrowing down to the limited number of implications. 
-Then I could build a web application where people from the area could testify (= post to API) on these specific implications (case of desease, for instance). 
-All the posts are being stored in database. 
-Frontend part of the application is the map and the objects, built generated out of the quotes from people's posts. More cases, the bigger these objects (now I imagine something like text bubbles or word cloud).
+Then I could build a web application where people from the area could testify (= post to API) on these specific implications (case of disease, for instance). 
+All the posts could be stored in database as json objects. 
+Frontend part of the application is going to be the map and the images or/and words, generated out of the quotes from people's posts. More cases, the bigger these objects are (for now, I imagine something like text bubbles or word clouds). "Text bubbles" are placed on the map depending on the geolocation they came from.
 
 ## Backend for final project
 
