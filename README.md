@@ -26,7 +26,7 @@ There are places in Russia that became, in fact, 'small Chernobyls' for they are
 
 These places affect environment, water, animals, and people around them. Nevertheless, I don't think that I could just find some database with the numbers on deseases or eco-catastrophes that are caused by these huge waste dumps.
 
-So, I started thinking how to create the dynamic data-vis project with NO data.
+So, I started thinking how to create the dynamic data-viz' project with NO data.
 
 ![One of the waste landfills in Russia, "Lesnaya ground" ](https://habrastorage.org/webt/ix/4n/qy/ix4nqy1xknkxavylgzgetfmy2r0.jpeg)
 
