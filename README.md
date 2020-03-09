@@ -31,7 +31,7 @@ So, I started thinking how to create the dynamic data-viz' project with NO data.
 ![One of the waste landfills in Russia, "Lesnaya ground" ](https://habrastorage.org/webt/ix/4n/qy/ix4nqy1xknkxavylgzgetfmy2r0.jpeg)
 
 I thought I could first have a brief research on the one spesific place and the damage it causes to the communities, nature, and climate, narrowing down to the limited number of implications. 
-Then I would like to build a web application where people from the area could testify (= post to API) on these specific implications (case of desease, for instance). 
+Then I could build a web application where people from the area could testify (= post to API) on these specific implications (case of desease, for instance). 
 All the posts are being stored in database. 
 Frontend part of the application is the map and the objects, built generated out of the quotes from people's posts. More cases, the bigger these objects (now I imagine something like text bubbles or word cloud).
 
