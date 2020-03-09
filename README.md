@@ -79,7 +79,7 @@ mongoose.connect(
 );
 ```
 
-### Here is what I ended up with after googling and studying the example code that we had in class. The problem is not solved, however, even though now the code looks closer to the class example that it originally was.
+### Here is what I ended up with after googling and studying the example code that we had in class. The problem is not solved, however, even though now my document looks closer to the class example.
 
 <a href="https://ibb.co/gFnbX2F"><img src="https://i.ibb.co/84hnRC4/Screenshot-2020-03-08-at-17-05-10.png" alt="Screenshot-2020-03-08-at-17-05-10" border="0"></a>
 
