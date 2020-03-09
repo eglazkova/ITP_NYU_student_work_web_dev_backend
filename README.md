@@ -19,7 +19,7 @@ I also start to understand what's under the hood of the data and come to thinkin
 
 I am coming from Russia, and, in my opinion, there is the certain issue in my country about how some data or events are being presented in media. To be more precise, they are not presented at all or are being presented in a way that it's hard to say whether information is reliable or not.
 
-Coronavirus is a dramatic example. My family is deeply concerned about the situation but they don't know whether the numbers of the cases in Russia are real, or authorities just manipulate the panic in order to prevent people from gathering together on any occasion including poitical ones.
+Coronavirus is a dramatic example. My family is deeply concerned about the situation but they don't know whether the numbers of the cases in Russia are real, or authorities just manipulate the panic in order to prevent people from gathering together on any occasions including poitical ones.
 
 However, I am not going to dedicate the project to the virus. I've been thinking a lot about another problem that is ecological and oe deeply silenced in the media.
 There are places in Russia that became, in fact, 'small Chernobyls' foo they are being used as waste landfills or/and chemical wastes for years.
