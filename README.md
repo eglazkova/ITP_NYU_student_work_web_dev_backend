@@ -102,11 +102,11 @@ And also, I didn't have any idea that the number of the uploads to GitHub is lim
 * [MongoDB Atlas](https://cloud.mongodb.com/)
 * [npm](https://www.npmjs.com/)
 * [Postman](https://www.postman.com/)
-* [Express] (https://expressjs.com/)
+* [Express](https://expressjs.com/)
 
 ## References
 
-* Dev Ed. [Link](https://www.youtube.com/watch?v=vjf774RKrLc)
+* Dev Ed. [Build A Restful Api With Node.js Express & MongoDB | Rest Api Tutorial](https://www.youtube.com/watch?v=vjf774RKrLc)
 
 ## Resourses that I couldn't absorb this week but will have to, eventually
 
