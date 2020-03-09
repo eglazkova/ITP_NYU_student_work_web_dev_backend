@@ -21,7 +21,7 @@ I am coming from Russia, and, in my opinion, there is the certain issue in my co
 
 Coronavirus is a dramatic example. My family is deeply concerned about the situation but they don't know whether the numbers of the cases in Russia are real, or authorities just manipulate the panic in order to prevent people from gathering together on any occasions including political ones.
 
-However, I am not going to dedicate the project to the virus. I've been thinking a lot about another problem that is ecological and oe deeply silenced in the media.
+However, I am not going to dedicate the project to the virus. I've been thinking a lot about another problem that is ecological and is deeply silenced in the media.
 There are places in Russia that became, in fact, 'small Chernobyls' foo they are being used as waste landfills or/and chemical wastes for years.
 These places affect environment, water, animals, and people around them. Nevertheless, I don't think that I could just find some database with the numbers on deseases or eco-catastrophes that are caused by these huge waste dumps.
 
